@@ -2,3 +2,12 @@ h1 {
     color: peru;
     margin-left: 480px;
 }
+
+
+h2 {
+    color: pink;
+}
+
+* {
+    background-color: #a4e6a3;
+}
